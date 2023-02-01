@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "firstName": "Davis",
+      "lastName": "Dyer",
+      "email": "julia_acker@gmail.com",
+      "zipCode": "37138",
+      "password": "jazad",
+      "isUser": true,
+      "id": 1
+    }
+  ],
+  "communities": [],
+  "userGroup": [],
+  "location": [],
+  "event": []
+}
